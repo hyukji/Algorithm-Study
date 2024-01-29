@@ -84,5 +84,6 @@
 | 날짜 | 문제 |
 | :---- | :------------------: | 
 | 1월 4주차 |[색종이붙이기](https://www.acmicpc.net/problem/17136), [로봇청소기](https://www.acmicpc.net/problem/14503), [스타트와 링크](https://www.acmicpc.net/problem/14889), [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586),[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839),[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+| 2월 1주차 |[사다리 조작](https://www.acmicpc.net/problem/15684), [배열돌리기4](https://www.acmicpc.net/problem/17406), [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238), [ H-Index ](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |
 
 
