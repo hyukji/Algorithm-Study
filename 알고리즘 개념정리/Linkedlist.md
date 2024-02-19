@@ -109,3 +109,39 @@ list1.set(1, "A"); // index 1번의 데이터를 문자열 "A"로 변경한다.
 System.out.println(list1); // // [10, A, 30]
 
 ```
+
+---
+### ArrayDeque와 LinkedList 무슨 차이일까?
+
+```java
+public class LinkedList<E>
+	extends AbstractSequentialList<E>
+	implements List<E>, Deque<E>, Cloneable, java.io.Serializable
+```
+```java
+public class ArrayDeque<E> extends AbstractCollection<E>
+						   implements Deque<E>, Cloneable, Serializable
+```
+`LinkedList`는 `List`, `Deque` 인터페이스를 구현했고 
+`ArrayDeque`는 `Deque` 인터페이스를 구현했다.
+
+-> ArrayDeque가 List 인터페이스는 구현하지 않았다는 점이 다름.
+
+### 1. Deque란?
+- 원소의 추가와 삭제를 둘 다 끝부분에서 지원하는 선형 collection이다.
+
+### 2. ArrayDeque란?
+- Deque interface의 사이즈 조정이 가능한 array의 구현체이다.<br>
+- null은 안된다.<br>
+- stack으로 쓸 때 Stack보다는 빠르고 queue로 쓸 때 LinkedList보다 빠르다.
+
+### 3. ArrayDeque vs LinkedList
+- ArrayDeque는 Array에 의해 지원되고 Array는 LinkedList보다 cache-locality 친화적이다.
+- ArrayDeque는 다음 노드에 추가적인 reference를 유지할 필요가 없기 때문에 LinkedList보다 메모리 효율적임. 그래서 ArrayDeque를 queue로 사용할 때 LinkedList 대신에 사용한다.
+
+=> 인덱스로 데이터에 접근하고 끝에 삽입, 삭제만 할 경우에는 ArrayList를 사용<br>
+stack, queue, deque는 ArrayDeque 사용<br>
+리스트를 순회할 때 삽입, 삭제하거나 O(1)인 최악의 경우에 마지막에 삽입 시 LinkedList 사용
+
+`case by case로 어떤 것이 나은지 판단하고 사용하면 될 듯하다.`
+
