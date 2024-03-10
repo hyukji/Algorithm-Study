@@ -90,4 +90,6 @@
 | 2월 2주차 |[보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=%EB%B3%B4%EA%B8%89%EB%A1%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [핀볼게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&categoryId=AWXRF8s6ezEDFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [경사로](https://www.acmicpc.net/problem/14890), [톱니바퀴](https://www.acmicpc.net/problem/14891) |
 | 2월 3주차 |[감시](https://www.acmicpc.net/problem/15683), [드래곤 커브](https://www.acmicpc.net/problem/15685), [나무 재테크](https://www.acmicpc.net/problem/16235), [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
 | 2월 4주차 |[연구소](https://www.acmicpc.net/problem/14502), [낚시왕](https://www.acmicpc.net/problem/17143), [다리만들기2](https://www.acmicpc.net/problem/17472), [Puyo Puyo](https://www.acmicpc.net/problem/11559) |
+| 3월 1주차 | B형 대비 문제 풀이 |
+
 
