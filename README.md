@@ -91,5 +91,7 @@
 | 2월 3주차 |[감시](https://www.acmicpc.net/problem/15683), [드래곤 커브](https://www.acmicpc.net/problem/15685), [나무 재테크](https://www.acmicpc.net/problem/16235), [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
 | 2월 4주차 |[연구소](https://www.acmicpc.net/problem/14502), [낚시왕](https://www.acmicpc.net/problem/17143), [다리만들기2](https://www.acmicpc.net/problem/17472), [Puyo Puyo](https://www.acmicpc.net/problem/11559) |
 | 3월 1주차 | B형 대비 문제 풀이 |
+| 3월 2주차 | B형 대비 문제 풀이2 |
+| 3월 3~4주차 | [차량 정비소](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy&categoryId=AV6c6bgaIuoDFAXy&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=30&pageIndex=1), [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH&categoryId=AWIeRZV6kBUDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo&categoryId=AWXRFInKex8DFAUo&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [공주님의 정원](https://www.acmicpc.net/problem/2457), [부분합](https://www.acmicpc.net/problem/1806), [용액](https://www.acmicpc.net/problem/2467) |
 
 
