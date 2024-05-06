@@ -97,4 +97,7 @@
 | 4월 2주차 | [달빛 여우](https://www.acmicpc.net/problem/16118), [트리의 순회](https://www.acmicpc.net/problem/2263), [외판원 순회](https://www.acmicpc.net/problem/2098), [그림 교환](https://www.acmicpc.net/problem/1029) |
 | 4월 3~4주차 | [틱택토](https://www.acmicpc.net/problem/7682), [쇠막대기](https://www.acmicpc.net/problem/10799), [테트리스 게임](https://www.acmicpc.net/problem/4920), [랜선 자르기](https://www.acmicpc.net/problem/1654), [찾기](https://www.acmicpc.net/problem/1786),  [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343), [좋다](https://www.acmicpc.net/problem/1253), [고냥이](https://www.acmicpc.net/problem/16472) |
 | 5월 1주차 | [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343), [가장 긴 등차 부분 수열](https://www.acmicpc.net/problem/25289), [전기 요금](https://www.acmicpc.net/problem/5710), [달력](https://www.acmicpc.net/problem/20207), [주차 요금](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
+| 5월 2주차 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903), [두 큐 합 같게 만들기
+](https://school.programmers.co.kr/learn/courses/30/lessons/118667), [이진 검색 트리](https://www.acmicpc.net/problem/5639), [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |
+
 
