@@ -99,5 +99,7 @@
 | 5월 1주차 | [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343), [가장 긴 등차 부분 수열](https://www.acmicpc.net/problem/25289), [전기 요금](https://www.acmicpc.net/problem/5710), [달력](https://www.acmicpc.net/problem/20207), [주차 요금](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |
 | 5월 2주차 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903), [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667), [이진 검색 트리](https://www.acmicpc.net/problem/5639), [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |
 | 6월 3주차 | [우주신과의 교감](https://www.acmicpc.net/problem/1774), [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368), [가희의 탑](https://www.acmicpc.net/problem/24337), [트럭](https://www.acmicpc.net/problem/13335) |
+| 6월 4주차 | [수열](https://www.acmicpc.net/problem/2559), [문자열 폭발](https://school.programmers.co.kr/learn/courses/30/lessons/9935), [강의실 배정](https://softeer.ai/practice/6291), [수퍼바이러스](https://softeer.ai/practice/6292) |
+| 7월 1주차 | [타임머신](https://www.acmicpc.net/problem/11657), [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/7662), [새로운 게임](https://www.acmicpc.net/problem/17780), [Yunny's Trip](https://www.acmicpc.net/problem/31885) |
 
 
