@@ -101,5 +101,5 @@
 | 6월 3주차 | [우주신과의 교감](https://www.acmicpc.net/problem/1774), [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368), [가희의 탑](https://www.acmicpc.net/problem/24337), [트럭](https://www.acmicpc.net/problem/13335) |
 | 6월 4주차 | [수열](https://www.acmicpc.net/problem/2559), [문자열 폭발](https://school.programmers.co.kr/learn/courses/30/lessons/9935), [강의실 배정](https://softeer.ai/practice/6291), [수퍼바이러스](https://softeer.ai/practice/6292) |
 | 7월 1주차 | [타임머신](https://www.acmicpc.net/problem/11657), [이중 우선순위 큐](https://www.acmicpc.net/problem/7662), [새로운 게임](https://www.acmicpc.net/problem/17780), [Yunny's Trip](https://www.acmicpc.net/problem/31885) |
-| 8월 2주차 | [목표량](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391340), [정리 정돈을 좋아하는 k씨](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391342)|
+| 8월 2주차 | [목표량](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391340), [정리 정돈을 좋아하는 k씨](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391342), [문자열 압축 해제](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391343)|
 
