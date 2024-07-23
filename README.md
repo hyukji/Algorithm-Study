@@ -102,4 +102,5 @@
 | 6월 4주차 | [수열](https://www.acmicpc.net/problem/2559), [문자열 폭발](https://school.programmers.co.kr/learn/courses/30/lessons/9935), [강의실 배정](https://softeer.ai/practice/6291), [수퍼바이러스](https://softeer.ai/practice/6292) |
 | 7월 1주차 | [타임머신](https://www.acmicpc.net/problem/11657), [이중 우선순위 큐](https://www.acmicpc.net/problem/7662), [새로운 게임](https://www.acmicpc.net/problem/17780), [Yunny's Trip](https://www.acmicpc.net/problem/31885) |
 | 7월 2주차 | [목표량](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391340), [정리 정돈을 좋아하는 k씨](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391342), [문자열 압축 해제](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391343)|
+| 7월 5주차 | [세 수의 합](https://www.acmicpc.net/problem/2295), [구슬 찾기](https://www.acmicpc.net/problem/2617), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
 
