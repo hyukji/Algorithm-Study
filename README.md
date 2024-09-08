@@ -13,13 +13,13 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/DDDongyeon"><img src="https://avatars.githubusercontent.com/DDDongyeon" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Yahoooo-928"><img src="https://avatars.githubusercontent.com/Yahoooo-928" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hyukji"><img src="https://avatars.githubusercontent.com/hyukji" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/FreshSangchoo"><img src="https://avatars.githubusercontent.com/FreshSangchoo" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/wjdansrl7"><img src="https://avatars.githubusercontent.com/wjdansrl7" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/DDDongyeon"><b>DDDongyeon</b></a></td>
+    <td align="center"><a href="https://github.com/Yahoooo-928"><b>Yahoooo-928</b></a></td>
     <td align="center"><a href="https://github.com/hyukji"><b>hyukji</b></a></td>
     <td align="center"><a href="https://github.com/FreshSangchoo"><b>FreshSangchoo</b></a></td>
     <td align="center"><a href="https://github.com/wjdansrl7"><b>wjdansrl7</b></a></td>
