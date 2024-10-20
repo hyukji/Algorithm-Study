@@ -29,10 +29,9 @@
 <br/>
 
 ## ✅ Rules
-- 스터디는 월(오프라인, 18:00), 토(온라인, 14:00)에 진행한다.
-- 월요일 오프라인 스터디 전에 각자 알고리즘 문제를 풀고 PR을 날린다.
-- 월요일 오프라인 스터디에서는 각자 풀어온 문제를 발표하고 코드리뷰하는 시간을 가진다.
-- 토요일 온라인 스터디에서는 매주 정한 알고리즘 개념을 설명하는 시간을 가진다.
+- 스터디는 오프라인 인증 형식으로 진행한다. 
+- 매주 최소 2문제 풀이 후 Git에 PUSH 및 README를 수정한다. 
+- PUSH 후 Main 브랜치에 PR을 날린다. 
   
 <br/>
 
@@ -101,5 +100,17 @@
 | 6월 3주차 | [우주신과의 교감](https://www.acmicpc.net/problem/1774), [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368), [가희의 탑](https://www.acmicpc.net/problem/24337), [트럭](https://www.acmicpc.net/problem/13335) |
 | 6월 4주차 | [수열](https://www.acmicpc.net/problem/2559), [문자열 폭발](https://school.programmers.co.kr/learn/courses/30/lessons/9935), [강의실 배정](https://softeer.ai/practice/6291), [수퍼바이러스](https://softeer.ai/practice/6292) |
 | 7월 1주차 | [타임머신](https://www.acmicpc.net/problem/11657), [이중 우선순위 큐](https://www.acmicpc.net/problem/7662), [새로운 게임](https://www.acmicpc.net/problem/17780), [Yunny's Trip](https://www.acmicpc.net/problem/31885) |
+| 10월 3주차 | [보석도둑](https://www.acmicpc.net/problem/1202), [팀 프로젝트](https://www.acmicpc.net/problem/9466), [지금 밥이 문제냐](https://www.acmicpc.net/problem/12787), [좋다](https://www.acmicpc.net/problem/1253) |
+
+<br/>
+
+## 💥 인증 리스트
+### 💦 10월 3주차
+| 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
+|----------------|--------|--------|--------|--------|
+| 보석도둑       | [ ]    | [ ]    | [ ]    | [ ]    |
+| 팀 프로젝트     | [ ]    | [ ]    | [ ]    | [ ]    |
+| 지금 밥이 문제냐 | [ ]    | [ ]    | [ ]    | [ ]    |
+| 좋다 | [ ]    | [ ]    | [ ]    | [ ]    |
 
 
