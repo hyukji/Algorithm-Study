@@ -103,6 +103,7 @@
 | 7월 2주차 | [목표량](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391340), [정리 정돈을 좋아하는 k씨](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391342), [문자열 압축 해제](https://code-challenge.elice.io/courses/95930/lectures/738999/lecturepages/20391343)|
 | 7월 5주차 | [세 수의 합](https://www.acmicpc.net/problem/2295), [구슬 찾기](https://www.acmicpc.net/problem/2617), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
 | 10월 3주차 | [보석도둑](https://www.acmicpc.net/problem/1202), [팀 프로젝트](https://www.acmicpc.net/problem/9466), [지금 밥이 문제냐](https://www.acmicpc.net/problem/12787), [좋다](https://www.acmicpc.net/problem/1253) |
+| 10월 4주차 | [개똥벌레](https://www.acmicpc.net/problem/3020), [가희와 탑](https://www.acmicpc.net/problem/24337), [두 배열의 합](https://www.acmicpc.net/problem/2143), [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 
 <br/>
 
