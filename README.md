@@ -113,6 +113,6 @@
 | 보석도둑       | :white_large_square:    | :white_check_mark:    | :white_check_mark:    | :white_large_square:    |
 | 팀 프로젝트     | :white_large_square:    | :white_check_mark:   | :white_large_square:    | :white_large_square:    |
 | 지금 밥이 문제냐 | :white_check_mark:    | :white_large_square:    | :white_check_mark:    | :white_check_mark:    |
-| 좋다 | :white_large_square:    | :white_check_mark:  | :white_check_mark:    | :white_check_mark:    |
+| 좋다 | :white_check_mark:    | :white_check_mark:  | :white_check_mark:    | :white_check_mark:    |
 
 
