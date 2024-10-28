@@ -119,9 +119,9 @@
 ### 💦 10월 4주차
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
-| 개똥벌레       | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_check_mark:    |
+| 개똥벌레       | :white_check_mark:    | :white_large_square:    | :white_large_square:    | :white_check_mark:    |
 | 가희와 탑     | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_check_mark:    |
 | 두 배열의 합 | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_check_mark:    |
-| 잃어버린 괄호 | :white_large_square:    | :white_large_square:  | :white_large_square:    | :white_check_mark:    |
+| 잃어버린 괄호 | :white_check_mark:    | :white_large_square:  | :white_large_square:    | :white_check_mark:    |
 
 
