@@ -4,8 +4,8 @@
 </br>
 
 - **활동기간** : 2024.01.22 ~
-- **언어** : JAVA
-- **목표** : 삼성 A, B형 및 기업 코테 마스터
+- **언어** : JAVA(지혁이는 python...)
+- **목표** : 취업
 
 <br/>
 
@@ -104,6 +104,7 @@
 | 7월 5주차 | [세 수의 합](https://www.acmicpc.net/problem/2295), [구슬 찾기](https://www.acmicpc.net/problem/2617), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|
 | 10월 3주차 | [보석도둑](https://www.acmicpc.net/problem/1202), [팀 프로젝트](https://www.acmicpc.net/problem/9466), [지금 밥이 문제냐](https://www.acmicpc.net/problem/12787), [좋다](https://www.acmicpc.net/problem/1253) |
 | 10월 4주차 | [개똥벌레](https://www.acmicpc.net/problem/3020), [가희와 탑](https://www.acmicpc.net/problem/24337), [두 배열의 합](https://www.acmicpc.net/problem/2143), [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
+| 11월 1주차 | [소문난 칠동주](https://www.acmicpc.net/problem/1941), [열쇠](https://www.acmicpc.net/problem/9328), [공통 부분 문자열](https://www.acmicpc.net/problem/5582), [약수의 합](https://www.acmicpc.net/problem/17425) |
 
 <br/>
 
@@ -124,4 +125,10 @@
 | 두 배열의 합 | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
 | 잃어버린 괄호 | :white_check_mark:    | :white_check_mark: | :white_large_square:    | :white_check_mark:    |
 
-
+### 💦 11월 1주차
+| 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
+|----------------|--------|--------|--------|--------|
+| 소문난 칠공주    | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
+| 열쇠     | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
+| 공통 부분 문자열 | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
+| 약수의 합 | :white_large_square:    | :white_large_square:  | :white_large_square:    | :white_large_square:    |
