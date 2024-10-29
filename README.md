@@ -117,7 +117,7 @@
 | 지금 밥이 문제냐 | :white_check_mark:    | :white_large_square:    | :white_check_mark:    | :white_check_mark:    |
 | 좋다 | :white_check_mark:    | :white_check_mark:  | :white_check_mark:    | :white_check_mark:    |
 
-### 💦 10월 4주차
+### 💦 10월 4주차 (문기 벌금 10,000원)
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
 | 개똥벌레       | :white_check_mark:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
