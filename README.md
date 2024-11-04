@@ -128,7 +128,7 @@
 ### 💦 11월 1주차
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
-| 소문난 칠공주    | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_large_square:    |
+| 소문난 칠공주    | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
 | 열쇠     | :white_large_square:    | :white_check_mark:   | :white_large_square:    | :white_large_square:    |
 | 공통 부분 문자열 | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_large_square:    |
-| 약수의 합 | :white_large_square:    | :white_check_mark:  | :white_large_square:    | :white_large_square:    |
+| 약수의 합 | :white_large_square:    | :white_check_mark:  | :white_large_square:    | :white_check_mark:    |
