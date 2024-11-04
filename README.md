@@ -130,5 +130,5 @@
 |----------------|--------|--------|--------|--------|
 | 소문난 칠공주    | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
 | 열쇠     | :white_large_square:    | :white_check_mark:   | :white_large_square:    | :white_large_square:    |
-| 공통 부분 문자열 | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_large_square:    |
-| 약수의 합 | :white_large_square:    | :white_check_mark:  | :white_large_square:    | :white_check_mark:    |
+| 공통 부분 문자열 | :white_check_mark:    | :white_check_mark:    | :white_large_square:    | :white_large_square:    |
+| 약수의 합 | :white_check_mark:    | :white_check_mark:  | :white_large_square:    | :white_check_mark:    |
