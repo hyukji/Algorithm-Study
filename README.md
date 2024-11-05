@@ -105,6 +105,7 @@
 | 10월 3주차 | [보석도둑](https://www.acmicpc.net/problem/1202), [팀 프로젝트](https://www.acmicpc.net/problem/9466), [지금 밥이 문제냐](https://www.acmicpc.net/problem/12787), [좋다](https://www.acmicpc.net/problem/1253) |
 | 10월 4주차 | [개똥벌레](https://www.acmicpc.net/problem/3020), [가희와 탑](https://www.acmicpc.net/problem/24337), [두 배열의 합](https://www.acmicpc.net/problem/2143), [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 | 11월 1주차 | [소문난 칠공주](https://www.acmicpc.net/problem/1941), [열쇠](https://www.acmicpc.net/problem/9328), [공통 부분 문자열](https://www.acmicpc.net/problem/5582), [약수의 합](https://www.acmicpc.net/problem/17425) |
+| 11월 2주차 | [2048(Easy)](https://www.acmicpc.net/problem/12100), [공항](https://www.acmicpc.net/problem/10775), [평범한 배낭](https://www.acmicpc.net/problem/12865), [세 용액](https://www.acmicpc.net/problem/2473) |
 
 <br/>
 
@@ -125,10 +126,18 @@
 | 두 배열의 합 | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
 | 잃어버린 괄호 | :white_check_mark:    | :white_check_mark: | :white_large_square:    | :white_check_mark:    |
 
-### 💦 11월 1주차
+### 💦 11월 1주차 (문기 벌금 10,000원)
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
 | 소문난 칠공주    | :white_large_square:    | :white_check_mark:    | :white_large_square:    | :white_check_mark:    |
 | 열쇠     | :white_large_square:    | :white_check_mark:   | :white_large_square:    | :white_large_square:    |
 | 공통 부분 문자열 | :white_check_mark:    | :white_check_mark:    | :white_large_square:    | :white_large_square:    |
 | 약수의 합 | :white_check_mark:    | :white_check_mark:  | :white_large_square:    | :white_check_mark:    |
+
+### 💦 11월 2주차 
+| 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
+|----------------|--------|--------|--------|--------|
+| 2048(Easy)     | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
+| 공항    | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
+| 평범한 배낭 | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
+| 세 용액 | :white_large_square:    | :white_large_square:  | :white_large_square:    | :white_large_square:    |
