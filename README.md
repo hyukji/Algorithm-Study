@@ -139,5 +139,5 @@
 |----------------|--------|--------|--------|--------|
 | 2048(Easy)     | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
 | 공항    | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
-| 평범한 배낭 | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
-| 세 용액 | :white_large_square:    | :white_large_square:  | :white_large_square:    | :white_large_square:    |
+| 평범한 배낭 | :white_large_square:    | :white_large_square:    | :white_check_mark:    | :white_large_square:    |
+| 세 용액 | :white_large_square:    | :white_large_square:  | :white_check_mark:    | :white_large_square:    |
