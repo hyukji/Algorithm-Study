@@ -137,7 +137,7 @@
 ### 💦 11월 2주차 
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
-| 2048(Easy)     | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
+| 2048(Easy)     | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_check_mark:    |
 | 공항    | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
-| 평범한 배낭 | :white_large_square:    | :white_large_square:    | :white_check_mark:    | :white_large_square:    |
+| 평범한 배낭 | :white_large_square:    | :white_large_square:    | :white_check_mark:    | :white_check_mark:    |
 | 세 용액 | :white_large_square:    | :white_large_square:  | :white_check_mark:    | :white_large_square:    |
