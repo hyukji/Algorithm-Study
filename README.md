@@ -147,6 +147,6 @@
 | 문제 / 팀원     | 동연   | 지혁   | 문기   | 영남   |
 |----------------|--------|--------|--------|--------|
 | 게임을 만든 동준이       | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
-| 마법사 상어와 비바라기     | :white_large_square:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
+| 마법사 상어와 비바라기     | :white_check_mark:    | :white_large_square:   | :white_large_square:    | :white_large_square:    |
 | 회장뽑기 | :white_large_square:    | :white_large_square:    | :white_large_square:    | :white_large_square:    |
-| ⚾ | :white_large_square:    | :white_large_square:  | :white_large_square:    | :white_large_square:    |
+| ⚾ | :white_check_mark:    | :white_large_square:  | :white_large_square:    | :white_large_square:    |
